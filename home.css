@@ -1,0 +1,65 @@
+h1{
+    Color:brown;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+}
+.AboutMe{
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+    float:inline-start;
+    background-color:bisque;
+}
+.AboutMe h3{
+    font-size: 25px;
+    color:saddlebrown;
+    font-family: cursive;
+}
+.AboutMe li{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: sienna;
+    list-style-type: none;
+    padding-left: 20px;
+}
+.AboutMe li:hover{
+    color: brown;
+    font-size: 25px;
+}
+.AboutMe ul{
+    padding: 0;
+}
+.learnindonesian{
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+    float:inline-start;
+    background-color:bisque;
+}
+.learnindonesian h3{
+    font-size: 25px;
+    color:saddlebrown;
+    font-family: cursive;
+}
+.learnindonesian button{
+    background-color: saddlebrown;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 7px 7px #6E260E;
+}
+.learnindonesian button:hover{
+    background-color: #6F4E37;
+}
+.learnindonesian button:active{
+    background-color: sienna;
+    position:relative;
+    top: 5px;
+    left: 5px;
+    box-shadow: 5px 5px #6E260E;
+}
